@@ -4,3 +4,5 @@
 //TODO: I have not finished the part for counting the correct, incorrect, and unanswered answers. 
 
 //TODO: I have not finished the styling of the page using css. 
+
+//TODO: I also need to make sure that you can only click one clickbox per questions. 
